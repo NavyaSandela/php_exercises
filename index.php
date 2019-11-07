@@ -1,3 +1,4 @@
 <?php
-
-phpinfo();
+ // The sample PHP code
+phpinfo(); 
+ ?>
